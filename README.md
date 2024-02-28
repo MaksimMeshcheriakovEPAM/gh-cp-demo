@@ -1,0 +1,4 @@
+- Clone this project to your local computer
+- Check out the first commit "Initial preparations"
+- Reproduce actions demonstrated on webinar
+- Compare your results of using CoPilot and code in the "Working version" commit
